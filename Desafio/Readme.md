@@ -22,9 +22,10 @@ API RESTful desenvolvida em Node.js para gerenciamento de pedidos, com persistê
 
 1. Clone o repositório:
 git clone https://github.com/LuccaVG/Jitterbit-Test.git
+
 cd \Desafio
 
-2. Instale as dependências:
+3. Instale as dependências:
 
 npm install
 
